@@ -1,3 +1,3 @@
 # EnschedeUHI
 
-[NDVI Layer](/NDVI Layer)
+[NDVI Layer](/GetNDVI.md)
