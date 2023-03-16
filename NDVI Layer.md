@@ -1,5 +1,3 @@
-# EnschedeUHI
-
 ## Obtain the NDVI Layer
 1. Identify the date with the highest temperature in the last 5 years.
 2.	We are going now to get the median NDVI values for the months where the highest temperature was recorded.
