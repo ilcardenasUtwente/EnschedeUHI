@@ -99,6 +99,7 @@ SELECT * WHERE gridcode = 0
 8. Some white roofs might show up as water bodies, to clean your data we are going to use the  [Building Footprint](/Building Footprint.md).
 9. Use the Erase tool to elmiminate all the polygons that are intersecting a Building, that way we will have a clean water Bodies layer detected at a 10m Resolution
 
+---
 ## OPTION 2 - OpenStreetMaps
 
 ```javascript
